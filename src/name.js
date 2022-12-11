@@ -1,1 +1,2 @@
-export default "不要秃头啊";
+const name = "不要秃头啊";
+export default name;
